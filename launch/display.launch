@@ -16,5 +16,5 @@
     name="rviz"
     pkg="rviz"
     type="rviz"
-    args="-d $(find matrix_true_description)/urdf.rviz" />
+    args="-d $(find matrix_true_description)/rviz/display.rviz" />
 </launch>
